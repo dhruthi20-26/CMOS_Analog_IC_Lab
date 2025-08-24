@@ -1,4 +1,4 @@
-# CMOS Analog IC Design — Lab Record
+# CMOS Analog IC Design — Record
 
 Experiments performed in Cadence Virtuoso covering device fundamentals and basic analog building blocks.
 
